@@ -11,7 +11,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Aczero', // Usually your GitHub org/user name.
-  projectName: 'AczeroDemo', // Usually your repo name.
+  projectName: 'docusaurus_demo', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
