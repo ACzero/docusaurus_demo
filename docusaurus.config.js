@@ -6,12 +6,12 @@ module.exports = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
   url: 'https://aczero.github.io',
-  baseUrl: '/docusaurus_demo',
+  baseUrl: '/docusaurus_demo/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'Aczero', // Usually your GitHub org/user name.
-  projectName: 'AczeroDemo', // Usually your repo name.
+  projectName: 'demo_prod', // Usually your repo name.
   themeConfig: {
     navbar: {
       title: 'My Site',
